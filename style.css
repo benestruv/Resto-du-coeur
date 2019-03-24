@@ -4,6 +4,7 @@ body {
     font-size : 0.8em;
     color: white;
     margin: 0;
+    font-weight: lighter;
 }
 
 /* Image d'entête*/
@@ -24,7 +25,7 @@ blockquote {
     font-style: italic;
     width: 150px;
     top: 100px;
-    right: 210px;
+    right: 330px;
     }
 
 blockquote a, #pied a, #coordonnees a, #association a {color: white;
@@ -48,7 +49,7 @@ blockquote a:hover, #pied a:hover, #coordonnees a:hover, #association a:hover {c
 ul {
     position: absolute;
     top: 310px;
-    right: 190px;
+    right: 390px;
     padding:0;
     margin:0;
     list-style-type:none;
